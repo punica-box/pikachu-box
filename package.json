@@ -11,7 +11,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^3.0.10",
+    "electron": "^18.3.7",
     "python-shell": "^1.0.6"
   }
 }
